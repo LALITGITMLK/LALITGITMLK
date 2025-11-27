@@ -1,6 +1,8 @@
-<!-- Neon-cyber banner with a personalized tagline -->
+<!-- Hero banner -->
 <p align="center">
-  <img src="./assets/banner.gif" alt="Hi, I'm Lalit Kumar! SOC Automation | Threat Detection Engineer; Cybersecurity with a Neon Edge 🚀" width="700" />
+  <img src="./assets/cyber-security.gif"
+       alt="Cyber Security Glitch Banner"
+       style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
@@ -11,19 +13,13 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/section.gif" alt="Cyber Neon" width="330" />
-</p>
-
----
-
 ## 👾 About Me
 
 - 👨‍💻 **SOC Automator:** 70+ PowerShell scripts and workflows for real-world cyber defense.
-- 🔍 **Detection Engineer:** Building next-gen, risk-based analytics for Tor, IOCs, and endpoint threats.
-- 🕶️ **Purple-Teamer:** Where offense meets defense, always a step ahead in the detection arms race.
+- 🔍 **Detection Engineer:** Building risk-based analytics for Tor, IOCs, and endpoint threats.
+- 🕶️ **Purple-Teamer:** Blending offense and defense to stay ahead in the detection arms race.
 - ☄️ **Always Learning:** Infosec never stands still, and neither do I.
-- 🤝 **Mentor/Community:** Open to connect, share knowledge, and improve blue team tools for everyone.
+- 🤝 **Mentor/Community:** Open to connect, share knowledge, and improve blue team tooling.
 
 ---
 
@@ -34,20 +30,35 @@
   <td>
     <a href="https://github.com/LALITGITMLK/Tor-Detection-Framework-mlk">
       <img src="https://img.icons8.com/color/48/tor.png" width="24" /> <b>Tor Detection Framework</b></a><br/>
-      <sub><i>Risk-based detection and SIEM automation for all Tor activity.<br>Advanced KQL, Sigma, playbooks.</i></sub>
+      <sub><i>Risk-based detection and SIEM automation for Tor activity with KQL, Sigma, and playbooks.</i></sub>
   </td>
   <td>
     <a href="https://github.com/LALITGITMLK/SOC-PowerShellScripts-UseCases-Analysis-Audit">
       <img src="https://img.icons8.com/fluency/48/script.png" width="24" /> <b>SOC PowerShell Toolkit</b></a><br/>
-      <sub><i>All-in-one kit for blue team automation: 70+ scripts, audits, threading, runbooks.</i></sub>
+      <sub><i>70+ blue-team scripts for automation, auditing, and investigation workflows.</i></sub>
   </td>
   <td>
     <a href="https://github.com/LALITGITMLK/CyberSec-PassGuard">
       <img src="https://img.icons8.com/nolan/48/password1.png" width="24" /> <b>CyberSec-PassGuard</b></a><br/>
-      <sub><i>Password strength & security awareness tools for all users.</i></sub>
+      <sub><i>Password strength and awareness utilities for users and defenders.</i></sub>
   </td>
 </tr>
 </table>
+
+---
+
+## 🎮 Visual Lab Vibes
+
+<p align="center">
+  <img src="./assets/hacker-dracula.gif"
+       alt="Hacker Dracula Lab Illustration"
+       width="260"
+       style="border-radius: 10px; margin-top: 10px;" />
+</p>
+
+<p align="center">
+  <sub>Detection engineering, DFIR and SOC automation experiments – all in one lab.</sub>
+</p>
 
 ---
 
@@ -76,7 +87,7 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lalit-k-b544b624b/">
+  <a href="https://www.linkedin.com/in/lalitmlk/">
     <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="38" alt="LinkedIn" />
   </a>
   <a href="mailto:mettalalit95@gmail.com">
@@ -89,12 +100,19 @@
 ## 💡 Motto
 
 <p align="center">
-  <img src="./assets/motto.gif" width="120" alt="Automate. Detect. Defend." /><br/>
-  <span style="color:#00f2ff; font-weight: bold; font-size:1.1em;">Automate. Detect. Defend.</span>
+  <img src="./assets/ping-you.gif"
+       alt="I'll ping you"
+       width="160"
+       style="margin-bottom: 6px;" /><br/>
+  <span style="color:#00f2ff; font-weight: bold; font-size:1.1em;">
+    Automate. Detect. Defend.
+  </span>
 </p>
 
 ---
 
 <!--
-Icons via https://icons8.com/. GIFs stored locally in ./assets so they always render.
+Place the three images in ./assets with names:
+  cyber-security.gif, hacker-dracula.gif, ping-you.gif
+and GitHub will render them directly from the repo.
 -->
