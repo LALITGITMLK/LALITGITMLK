@@ -2,14 +2,14 @@
 
 <h1>👨‍💻 Senior Security Analyst | SOC Lead | Detection Engineer</h1>
 
-<strong>6+ years in Cybersecurity</strong> — Abu Dhabi Government • CyberGate Defence LLC  
+<strong>6+ years in Cybersecurity</strong>  
 Microsoft Certified: SC-200 • SC-100 • SC-500 • CySA+ • PCDRA • Splunk • KQL Ninja
 
 <br>
 
-<img src="https://img.shields.io/badge/Senior_Senior%20Security%20Analyst-00ddff?style=for-the-badge&logoColor=white" alt="Senior Security Analyst"/>
-<img src="https://img.shields.io/badge/S_SOC%20Blue%20Team-00ddff?style=for-the-badge&logoColor=white" alt="SOC Blue Team"/>
-<img src="https://img.shields.io/badge/S_Open%20Source%20Advocate-00ddff?style=for-the-badge&logoColor=white" alt="Open Source Advocate"/>
+<img src="https://img.shields.io/badge/Senior%20Security%20Analyst-00ddff?style=for-the-badge&logoColor=white" alt="Senior Security Analyst"/>
+<img src="https://img.shields.io/badge/SOC%20Blue%20Team-00ddff?style=for-the-badge&logoColor=white" alt="SOC Blue Team"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Advocate-00ddff?style=for-the-badge&logoColor=white" alt="Open Source Advocate"/>
 
 <br><br>
 
@@ -37,7 +37,6 @@ Microsoft Certified: SC-200 • SC-100 • SC-500 • CySA+ • PCDRA • Splunk
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LALITGITMLK&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ddff&icon_color=00ffcc&text_color=c9d1d9&show_icons=true" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LALITGITMLK&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ddff&ring=00ddff&fire=ffeb95&currStreakLabel=00ddff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALITGITMLK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ddff&hide=html,css,jupyter%20notebook" />
 
 <br><br>
 
