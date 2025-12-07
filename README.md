@@ -1,71 +1,101 @@
 <div align="center">
 
-<h1>Senior Security Analyst | SOC Lead | Detection Engineer</h1>
+<h1 style="color:#00ddff;">Senior Security Analyst | SOC Lead | Detection Engineer</h1>
 
-**7+ years in Cybersecurity**  
-Microsoft Certified: SC-200 • SC-100 • SC-500 • CySA+ • PCDRA • Splunk • KQL Ninja
+<p><strong>7+ years in Cybersecurity</strong></p>
+<p>Microsoft Certified: <code>SC-200</code> • <code>SC-100</code> • <code>SC-500</code> • <code>CySA+</code> • <code>PCDRA</code> • <code>Splunk</code> • <code>KQL Ninja</code></p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Senior%20Security%20Analyst-00ddff?style=for-the-badge&logoColor=white" alt="Senior Security Analyst"/>
-<img src="https://img.shields.io/badge/SOC%20Blue%20Team-00ddff?style=for-the-badge&logoColor=white" alt="SOC Blue Team"/>
-<img src="https://img.shields.io/badge/Open%20Source%20Advocate-00ddff?style=for-the-badge&logoColor=white" alt="Open Source Advocate"/>
-<img src="https://img.shields.io/badge/Threat%20Hunter-00ddff?style=for-the-badge&logoColor=white" alt="Threat Hunter"/>
+<!-- Badges Row 1 -->
+<p>
+    <img src="https://img.shields.io/badge/Senior%20Security%20Analyst-00ddff?style=for-the-badge&logoColor=white" alt="Senior Security Analyst" />
+    <img src="https://img.shields.io/badge/SOC%20Blue%20Team-00ddff?style=for-the-badge&logoColor=white" alt="SOC Blue Team" />
+    <img src="https://img.shields.io/badge/Open%20Source%20Advocate-00ddff?style=for-the-badge&logoColor=white" alt="Open Source Advocate" />
+    <img src="https://img.shields.io/badge/Threat%20Hunter-00ddff?style=for-the-badge&logoColor=white" alt="Threat Hunter" />
+</p>
 
-<br><br>
+<!-- Badges Row 2 -->
+<p>
+    <img src="https://img.shields.io/badge/KQL-00ddff?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="KQL" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Microsoft%20Defender-00a100?style=for-the-badge&logo=microsoft&logoColor=white" alt="Defender" />
+    <img src="https://img.shields.io/badge/CrowdStrike-EF3B2D?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike" />
+    <img src="https://img.shields.io/badge/Splunk-FF5722?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+</p>
 
-<img src="https://img.shields.io/badge/KQL-00ddff?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="KQL"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Microsoft%20Defender-00a100?style=for-the-badge&logo=microsoft&logoColor=white" alt="Defender"/>
-<img src="https://img.shields.io/badge/CrowdStrike-EF3B2D?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike"/>
-<img src="https://img.shields.io/badge/Splunk-FF5722?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/Elastic_Stack-0061FF?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Stack"/>
-<img src="https://img.shields.io/badge/Cloud%20Security-00ddff?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Security"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<!-- Badges Row 3 -->
+<p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    <img src="https://img.shields.io/badge/Elastic_Stack-0061FF?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Stack" />
+    <img src="https://img.shields.io/badge/Cloud%20Security-00ddff?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Security" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
-<br><br>
+<hr style="border:1px solid #00ddff;width:80%;">
 
-## Skill Arsenal & Framework Proficiency
+<h2 style="color:#00ddff;">🛠️ Skill Arsenal & Framework Proficiency</h2>
 
-- **Detection Engineering:** Expertise in KQL, Sigma, YARA for advanced threat hunting and custom detection rules across Splunk, Azure Sentinel, and Elastic Stack.
-- **SOC Operations:** Incident investigation, alert triage, and response playbook creation using Microsoft Defender, CrowdStrike, and open-source tools.
-- **Vulnerability & Attack Surface Management:** Skilled in vulnerability identification and mitigation using Qualys, Tenable, Rapid7, and cloud-native security tools.
-- **Forensics & Threat Analysis:** Deep process, file, and network telemetry analysis on Linux/Windows platforms; proficient with TheHive, GRR, and Volatility frameworks.
-- **Automation & Scripting:** PowerShell, Python, and Bash scripting to automate SOC workflows, audit, and response activities.
-- **Cloud Security & DevSecOps:** Hands-on with AWS Security, Azure Security Center, container security (Docker, Kubernetes), and CI/CD pipeline security integrations.
-- **Frameworks & Standards:** NIST Cybersecurity Framework, MITRE ATT&CK, CIS Controls, and OWASP.
+<ul style="text-align:left; max-width:700px; margin:auto; font-size:1.1em;">
+  <li>🔍 <b>Detection Engineering:</b> KQL, Sigma, YARA for advanced hunting across Splunk, Azure Sentinel & Elastic Stack.</li>
+  <li>🛡️ <b>SOC Operations:</b> Incident investigation, alert triage & response playbook creation with Microsoft Defender, CrowdStrike, open-source tools.</li>
+  <li>⚠️ <b>Vulnerability Management:</b> Qualys, Tenable, Rapid7 for vulnerability detection and mitigation.</li>
+  <li>🕵️‍♂️ <b>Forensics & Threat Analysis:</b> Process/file/network telemetry analysis; TheHive, GRR, Volatility expertise.</li>
+  <li>💻 <b>Automation & Scripting:</b> PowerShell, Python, Bash scripts automate audit, hunt, response workflows.</li>
+  <li>☁️ <b>Cloud Security & DevSecOps:</b> AWS, Azure Security Center, container security with Docker & Kubernetes.</li>
+  <li>📚 <b>Frameworks & Standards:</b> NIST CSF, MITRE ATT&CK, CIS Controls, OWASP.</li>
+</ul>
 
-<br><br>
+<hr style="border:1px solid #00ddff;width:80%;">
 
-## Key Public Repositories
+<h2 style="color:#00ddff;">🚀 Key Public Repositories</h2>
 
-| Repository                                   | Description                                                  |
-|----------------------------------------------|--------------------------------------------------------------|
-| [Tor Detection Framework](https://github.com/LALITGITMLK/Tor-Detection-Framework-mlk)              | Risk-based Tor detection with KQL + Sigma + automated playbooks   |
-| [SOC PowerShell Toolkit](https://github.com/LALITGITMLK/SOC-PowerShellScripts-UseCases-Analysis-Audit) | 70+ production scripts for audit, hunt & response           |
-| [CyberSec PassGuard](https://github.com/LALITGITMLK/CyberSec-PassGuard)                           | Password strength & security awareness tools                   |
+<table align="center" style="max-width:700px;">
+  <thead>
+    <tr>
+      <th align="left">Repository</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/LALITGITMLK/Tor-Detection-Framework-mlk" target="_blank">Tor Detection Framework</a></td>
+      <td>Risk-based Tor detection leveraging KQL, Sigma & automated playbooks</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LALITGITMLK/SOC-PowerShellScripts-UseCases-Analysis-Audit" target="_blank">SOC PowerShell Toolkit</a></td>
+      <td>70+ production PowerShell scripts for audit, hunt & incident response</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LALITGITMLK/CyberSec-PassGuard" target="_blank">CyberSec PassGuard</a></td>
+      <td>Password strength & security awareness toolkit</td>
+    </tr>
+  </tbody>
+</table>
 
-<br><br>
+<br>
 
-## Contribution Streak
+<h2 style="color:#00ddff;">🔥 Contribution Streak</h2>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LALITGITMLK&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ddff&ring=00ddff&fire=ffeb95&currStreakLabel=00ddff" />
 
 <br><br>
 
-## Let's Connect
-<a href="https://www.linkedin.com/in/lalitmlk/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mettalalit95@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<h2 style="color:#00ddff;">🤝 Let's Connect</h2>
 
-<br><br><br>
+<p>
+  <a href="https://www.linkedin.com/in/lalitmlk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mettalalit95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<h2 style="color:#00ddff">Automate • Detect • Defend</h2>
+<h2 style="color:#00ddff;">Automate • Detect • Defend</h2>
 
 <img src="https://komarev.com/ghpvc/?username=LALITGITMLK&color=00ddff&style=flat-square&label=Profile%20Views" />
 
