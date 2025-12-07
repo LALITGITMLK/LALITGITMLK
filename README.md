@@ -2,7 +2,7 @@
 
 <h1>👨‍💻 Senior Security Analyst | SOC Lead | Detection Engineer</h1>
 
-<strong>6+ years in Cybersecurity</strong>  
+<strong>7+ years in Cybersecurity</strong>  
 Microsoft Certified: SC-200 • SC-100 • SC-500 • CySA+ • PCDRA • Splunk • KQL Ninja
 
 <br>
