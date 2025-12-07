@@ -4,9 +4,17 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Role-Senior%20Security%20Analyst-00f2ff?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOC-%23BlueTeam-00f2ff?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Advocate-00f2ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+<span style="display: inline-block;">
+  <a href="https://shields.io/">
+    <img src="https://img.shields.io/badge/Role-Senior%20Security%20Analyst-00f2ff?style=for-the-badge&logoColor=white" alt="Role Badge" />
+  </a>
+  <a href="https://shields.io/">
+    <img src="https://img.shields.io/badge/SOC-%23BlueTeam-00f2ff?style=for-the-badge&logoColor=white" alt="SOC Badge" />
+  </a>
+  <a href="https://shields.io/">
+    <img src="https://img.shields.io/badge/Open%20Source-Advocate-00f2ff?style=for-the-badge&logoColor=white" alt="Open Source Badge" />
+  </a>
+</span>
 
 </div>
 
@@ -25,21 +33,21 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/LALITGITMLK/Tor-Detection-Framework-mlk">
         <img src="https://img.icons8.com/color/48/tor.png" width="28"/> <br/>
         <b>Tor Detection Framework</b><br/>
         <sub>Risk-based Tor detection + SIEM playbooks (KQL + Sigma)</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/LALITGITMLK/SOC-PowerShellScripts-UseCases-Analysis-Audit">
         <img src="https://img.icons8.com/fluency/48/script.png" width="28"/> <br/>
         <b>SOC PowerShell Toolkit</b><br/>
         <sub>70+ battle-tested scripts for audit, hunt & response</sub>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="33%">
       <a href="https://github.com/LALITGITMLK/CyberSec-PassGuard">
         <img src="https://img.icons8.com/nolan/48/password1.png" width="28"/> <br/>
         <b>CyberSec PassGuard</b><br/>
@@ -64,11 +72,23 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/KQL-00D6A3?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sigma-FF2D55?style=for-the-badge&logo=sigma&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<span style="display: inline-block;">
+  <a href="https://powershell.org/">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  </a>
+  <a href="https://python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto-query-language/">
+    <img src="https://img.shields.io/badge/KQL-00D6A3?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="KQL" />
+  </a>
+  <a href="https://sigmahq.io/">
+    <img src="https://img.shields.io/badge/Sigma-FF2D55?style=for-the-badge&logo=sigma&logoColor=white" alt="Sigma" />
+  </a>
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  </a>
+</span>
 
 </div>
 
@@ -78,9 +98,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LALITGITMLK&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=15ffbf&text_color=c2fff7&bg_color=1a1b27&border_radius=10"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LALITGITMLK&theme=tokyonight&stroke=00f2ff&ring=00f2ff&fire=ffeb95&currStreakLabel=00f2ff"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALITGITMLK&layout=compact&theme=tokyonight&title_color=00f2ff&bg_color=1a1b27&hide=html,css,jupyter%20notebook&border_radius=10"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LALITGITMLK&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=15ffbf&text_color=c2fff7&bg_color=1a1b27&border_radius=10" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LALITGITMLK&theme=tokyonight&stroke=00f2ff&ring=00f2ff&fire=ffeb95&currStreakLabel=00f2ff" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALITGITMLK&layout=compact&theme=tokyonight&title_color=00f2ff&bg_color=1a1b27&hide=html,css,jupyter%20notebook&border_radius=10" alt="Top Languages" />
 
 </div>
 
@@ -110,5 +130,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LALITGITMLK&color=00f2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=LALITGITMLK&color=00f2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
