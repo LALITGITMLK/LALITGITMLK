@@ -24,9 +24,8 @@
 </div>
 
 ## 👨‍💻 Senior Security Analyst | SOC Lead | Detection Engineer
-**6+ years in Cybersecurity** — Abu Dhabi Government (Onsite) • CyberGate Defence LLC
 
-- Microsoft Certified: SC-200, SC-100, SC-500, CySA+, PCDRA, Splunk Foundation
+- Microsoft Certified: SC-200, SC-100, SC-500, CySA+, PCDRA, Splunk Foundation, KQL Ninja
 - Training now: SANS GCIH & GPEN
 - Daily grind: Microsoft Sentinel • Defender XDR • CrowdStrike • Cortex XSOAR • KQL • Sigma • PowerShell
 
