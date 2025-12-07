@@ -1,118 +1,114 @@
-<!-- Hero banner -->
-<p align="center">
-  <img src="./assets/cyber-security.gif"
-       alt="Cyber Security Glitch Banner"
-       style="max-width: 100%; height: auto;" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Senior%20Security%20Analyst-00f2ff?style=for-the-badge" alt="Role: Senior Security Analyst" />
-  <img src="https://img.shields.io/badge/SOC-%23BlueTeam-00f2ff?style=for-the-badge" alt="SOC: #BlueTeam" />
-  <img src="https://img.shields.io/badge/Open%20Source-Advocate-00f2ff?style=for-the-badge" alt="Open Source Advocate" />
-</p>
+<img src="./assets/cyber-security.gif" alt="Cyber Security Banner" width="100%"/>
 
----
+<br/>
+
+<img src="https://img.shields.io/badge/Role-Senior%20Security%20Analyst-00f2ff?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOC-%23BlueTeam-00f2ff?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Advocate-00f2ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+
+</div>
 
 ## 👾 About Me
+- 👨‍💻 SOC Automator — 70+ PowerShell scripts & workflows that actually get used in real incidents  
+- 🔍 Detection Engineer — Risk-based KQL/Sigma rules for Tor, living-off-the-land, and endpoint threats  
+- 🕶️ Purple Teamer — I break things so we can detect them better  
+- ☄️ Forever student of the craft — infosec moves fast and I move faster  
+- 🤝 Always happy to mentor or collab on blue-team tooling  
 
-- 👨‍💻 **SOC Automator:** 70+ PowerShell scripts and workflows for real-world cyber defense.
-- 🔍 **Detection Engineer:** Building risk-based analytics for Tor, IOCs, and endpoint threats.
-- 🕶️ **Purple-Teamer:** Blending offense and defense to stay ahead in the detection arms race.
-- ☄️ **Always Learning:** Infosec never stands still, and neither do I.
-- 🤝 **Mentor/Community:** Open to connect, share knowledge, and improve blue team tooling.
-
----
+<br/>
 
 ## 🚩 Flagship Projects
 
-<table>
-<tr>
-  <td>
-    <a href="https://github.com/LALITGITMLK/Tor-Detection-Framework-mlk">
-      <img src="https://img.icons8.com/color/48/tor.png" width="24" /> <b>Tor Detection Framework</b></a><br/>
-      <sub><i>Risk-based detection and SIEM automation for Tor activity with KQL, Sigma, and playbooks.</i></sub>
-  </td>
-  <td>
-    <a href="https://github.com/LALITGITMLK/SOC-PowerShellScripts-UseCases-Analysis-Audit">
-      <img src="https://img.icons8.com/fluency/48/script.png" width="24" /> <b>SOC PowerShell Toolkit</b></a><br/>
-      <sub><i>70+ blue-team scripts for automation, auditing, and investigation workflows.</i></sub>
-  </td>
-  <td>
-    <a href="https://github.com/LALITGITMLK/CyberSec-PassGuard">
-      <img src="https://img.icons8.com/nolan/48/password1.png" width="24" /> <b>CyberSec-PassGuard</b></a><br/>
-      <sub><i>Password strength and awareness utilities for users and defenders.</i></sub>
-  </td>
-</tr>
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LALITGITMLK/Tor-Detection-Framework-mlk">
+        <img src="https://img.icons8.com/color/48/tor.png" width="28"/> <br/>
+        <b>Tor Detection Framework</b><br/>
+        <sub>Risk-based Tor detection + SIEM playbooks (KQL + Sigma)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LALITGITMLK/SOC-PowerShellScripts-UseCases-Analysis-Audit">
+        <img src="https://img.icons8.com/fluency/48/script.png" width="28"/> <br/>
+        <b>SOC PowerShell Toolkit</b><br/>
+        <sub>70+ battle-tested scripts for audit, hunt & response</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LALITGITMLK/CyberSec-PassGuard">
+        <img src="https://img.icons8.com/nolan/48/password1.png" width="28"/> <br/>
+        <b>CyberSec PassGuard</b><br/>
+        <sub>Password strength + awareness tools for defenders & users</sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
----
+</div>
 
-## 🎮 Visual Lab Vibes
+<br/>
 
-<p align="center">
-  <img src="./assets/hacker-dracula.gif"
-       alt="Hacker Dracula Lab Illustration"
-       width="260"
-       style="border-radius: 10px; margin-top: 10px;" />
-</p>
+<div align="center">
+  <img src="./assets/hacker-dracula.gif" alt="Lab vibes" width="300" style="border-radius:12px;"/>
+  <br><sub><i>Detection engineering lab — where the magic (and coffee) happens</i></sub>
+</div>
 
-<p align="center">
-  <sub>Detection engineering, DFIR and SOC automation experiments – all in one lab.</sub>
-</p>
+<br/>
 
----
+## 🚀 Tech Playground
 
-## 🚦 My Tech Playground
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-3670A0?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-00f2ff?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/KQL-00f2ff?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sigma-00f2ff?style=for-the-badge&logo=simpleicons&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/KQL-00D6A3?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sigma-FF2D55?style=for-the-badge&logo=sigma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
----
+</div>
 
-## 📊 Stats & Badges
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LALITGITMLK&show_icons=true&title_color=00f2ff&icon_color=15ffbf&text_color=c2fff7&bg_color=22213a" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LALITGITMLK&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&stroke=00f2ffFF&ring=00f2ff" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALITGITMLK&hide=html,css,scss&layout=compact&title_color=00f2ff&bg_color=22213a" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LALITGITMLK&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=15ffbf&text_color=c2fff7&bg_color=1a1b27&border_radius=10"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=LALITGITMLK&theme=tokyonight&stroke=00f2ff&ring=00f2ff&fire=ffeb95&currStreakLabel=00f2ff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALITGITMLK&layout=compact&theme=tokyonight&title_color=00f2ff&bg_color=1a1b27&hide=html,css,jupyter%20notebook&border_radius=10"/>
+
+</div>
+
+<br/>
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lalitmlk/">
-    <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" width="38" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mettalalit95@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/email-open.png" width="38" alt="Email" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/lalitmlk/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="38"/>
+</a>
+&emsp;
+<a href="mailto:mettalalit95@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" width="38"/>
+</a>
 
-## 💡 Motto
+</div>
 
-<p align="center">
-  <img src="./assets/ping-you.gif"
-       alt="I'll ping you"
-       width="160"
-       style="margin-bottom: 6px;" /><br/>
-  <span style="color:#00f2ff; font-weight: bold; font-size:1.1em;">
-    Automate. Detect. Defend.
-  </span>
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="./assets/ping-you.gif" width="180"/><br/>
+  <h2 style="color:#00f2ff;"><strong>Automate. Detect. Defend.</strong></h2>
+</div>
 
-<!--
-Place the three images in ./assets with names:
-  cyber-security.gif, hacker-dracula.gif, ping-you.gif
-and GitHub will render them directly from the repo.
--->
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LALITGITMLK&color=00f2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
