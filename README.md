@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👨‍💻 Senior Security Analyst | SOC Lead | Detection Engineer</h1>
+<h1>Senior Security Analyst | SOC Lead | Detection Engineer</h1>
 
 <strong>7+ years in Cybersecurity</strong>  
 Microsoft Certified: SC-200 • SC-100 • SC-500 • CySA+ • PCDRA • Splunk • KQL Ninja
@@ -33,15 +33,12 @@ Microsoft Certified: SC-200 • SC-100 • SC-500 • CySA+ • PCDRA • Splunk
 
 <br><br>
 
-## GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LALITGITMLK&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ddff&icon_color=00ffcc&text_color=c9d1d9&show_icons=true" />
+## Contribution Streak
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LALITGITMLK&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ddff&ring=00ddff&fire=ffeb95&currStreakLabel=00ddff" />
 
 <br><br>
 
 ## Let's Connect
-
 <a href="https://www.linkedin.com/in/lalitmlk/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -51,7 +48,7 @@ Microsoft Certified: SC-200 • SC-100 • SC-500 • CySA+ • PCDRA • Splunk
 
 <br><br><br>
 
-<h2 style="color:#00ddff; margin: 0;">Automate • Detect • Defend</h2>
+<h2 style="color:#00ddff">Automate • Detect • Defend</h2>
 
 <img src="https://komarev.com/ghpvc/?username=LALITGITMLK&color=00ddff&style=flat-square&label=Profile%20Views" />
 
