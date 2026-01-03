@@ -2,7 +2,7 @@
 
 <h1 style="color:#00ddff;">Senior Security Analyst | SOC Lead | Detection Engineer</h1>
 
-<p><strong>7+ years in Cybersecurity</strong></p>
+<p><strong>Cybersecurity</strong></p>
 <p>Microsoft Certified: <code>SC-200</code> • <code>SC-100</code> • <code>SC-500</code> • <code>CySA+</code> • <code>PCDRA</code> • <code>Splunk</code> • <code>KQL Ninja</code></p>
 
 <br>
