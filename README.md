@@ -69,8 +69,8 @@
       <td>70+ production PowerShell scripts for audit, hunt & incident response</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/LALITGITMLK/CyberSec-PassGuard" target="_blank">CyberSec PassGuard</a></td>
-      <td>Password strength & security awareness toolkit</td>
+      <td><a href="https://github.com/LALITGITMLK/Invoke-ThreatHunt" target="_blank">Invoke-ThreatHunt</a></td>
+      <td>Simple Powershell script tolol for quick anlysis of event ID based anomalies</td>
     </tr>
   </tbody>
 </table>
